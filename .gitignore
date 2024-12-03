@@ -163,4 +163,5 @@ cython_debug/
 
 test
 */input
+*/test*
 template.py
